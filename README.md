@@ -22,15 +22,15 @@
 
 <Br>
 
-<h1 align="center">🧠 Interface Online: Let's Connect</h1>
+<h1 align="center">🧠 Interface Online</h1>
 <Br>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/javier-tu-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/bktmatjv/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:javiertucorreo@gmail.com" target="_blank">
+  <a href="matiasjavier1406@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;&nbsp;&nbsp;
@@ -40,11 +40,10 @@
 </p>
 
 <br>
-
 <br>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/lkdIhnHHnFma6xvICt/giphy.gif" width="250" />
+  <img src="assets/brain.gif" width="250" />
 </p>
 
 <p align="center"><i>“If you're nothing without the code, then you shouldn't have it.”</i></p>
