@@ -46,7 +46,7 @@
   <img src="assets/brain.gif" width="250" />
 </p>
 
-<p align="center"><i>“If you're nothing without the code, then you shouldn't have it.”</i></p>
+<p align="center"><i>“bkt”</i></p>
 
 
 
