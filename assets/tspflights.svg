@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="132" viewBox="0 0 600 132" role="img" aria-label="TSPFLIGHTS">
+  <defs><linearGradient id="b"><stop stop-color="#111724"/><stop offset="1" stop-color="#1a162b"/></linearGradient></defs>
+  <rect width="600" height="132" rx="9" fill="url(#b)"/><rect width="3" height="78" x="0" y="27" fill="#C3A4FF"/>
+  <circle cx="520" cy="64" r="79" fill="#C3A4FF" opacity=".035"/>
+  <g fill="none" stroke="#C3A4FF" stroke-width="1.5" opacity=".8"><path d="M460 83Q490 18 535 40T572 87M460 83Q515 111 572 87M535 40L518 90"/><circle cx="460" cy="83" r="4"/><circle cx="535" cy="40" r="4"/><circle cx="572" cy="87" r="4"/><circle cx="518" cy="90" r="4"/></g>
+  <g font-family="DejaVu Sans,sans-serif"><text x="25" y="57" font-size="21" font-weight="bold" fill="#F2F0FC">TSPFLIGHTS</text><text x="26" y="85" font-size="10" letter-spacing="1.1" fill="#C3A4FF">ROUTES / GRAPHS / EXPLORATION</text></g>
+  <path d="M407 21h8m-4-4v8M580 109h6m-3-3v6" stroke="#C3A4FF" opacity=".6"/>
+  </svg>

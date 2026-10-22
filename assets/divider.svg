@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="30" viewBox="0 0 1200 30"><defs>
+  <linearGradient id="space" x2="1" y2="1"><stop stop-color="#080c17"/><stop offset=".55" stop-color="#101126"/><stop offset="1" stop-color="#19102a"/></linearGradient>
+  <linearGradient id="flow" x1="0" y1="1" x2="1" y2="0"><stop stop-color="#9a61ff"/><stop offset=".26" stop-color="#56e8f5"/><stop offset=".48" stop-color="#fff2b3"/><stop offset=".63" stop-color="#ffad4a"/><stop offset=".82" stop-color="#fb648c"/><stop offset="1" stop-color="#835cff"/></linearGradient>
+  <linearGradient id="ring" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#8150ec"/><stop offset=".3" stop-color="#5ee9ed"/><stop offset=".55" stop-color="#ffe5a2"/><stop offset=".74" stop-color="#ff9b54"/><stop offset="1" stop-color="#b56bfa"/></linearGradient>
+  <radialGradient id="body" cx=".3" cy=".25" r=".8"><stop stop-color="#ffdfa6"/><stop offset=".32" stop-color="#e7a0ba"/><stop offset=".63" stop-color="#a285de"/><stop offset=".84" stop-color="#5756a9"/><stop offset="1" stop-color="#242147"/></radialGradient>
+  <radialGradient id="haze"><stop stop-color="#7c54d9" stop-opacity=".2"/><stop offset="1" stop-color="#7c54d9" stop-opacity="0"/></radialGradient>
+  <clipPath id="planetClip"><circle r="67"/></clipPath>
+</defs><path d="M0 17 C160 0 233 31 390 15 S658 29 825 15 S1080 31 1200 12" stroke="url(#flow)" stroke-width="2" opacity=".7" fill="none"/></svg>
